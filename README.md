@@ -4,4 +4,5 @@
 ----------------------------------
 Numpy<br>
 Pandas <br>
-Data Visualization
+Data Visualization <br>
+Data Preparation
