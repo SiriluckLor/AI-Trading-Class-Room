@@ -1,6 +1,6 @@
 📖 เอกสารประกอบการสอน (PDF)
 ----------------------------------
-🎯💹 Data Science & Deep learning for Finance
+💹 Data Science & Deep learning for Finance
 ----------------------------------
 - Numpy<br>
 - Pandas <br>
