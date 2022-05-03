@@ -4,6 +4,6 @@
 ----------------------------------
 Numpy
 
-[Pandas] (www.sanook.com)
+Pandas
 
 Data Visualization
