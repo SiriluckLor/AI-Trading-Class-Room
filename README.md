@@ -1,9 +1,7 @@
-#📖 เอกสารประกอบการสอน (PDF)
+📖 เอกสารประกอบการสอน (PDF)
 ----------------------------------
-##🎯 Data Science & Machine Learning Deep learning for Finance
+🎯 Data Science & Machine Learning Deep learning for Finance
 ----------------------------------
-###Numpy
-
-###Pandas
-
-###Data Visualization
+[Numpy](https://www.sanook.com/)<br>
+Pandas <br>
+Data Visualization
