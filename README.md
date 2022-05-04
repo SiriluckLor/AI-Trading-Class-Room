@@ -5,4 +5,6 @@
 - Numpy<br>
 - Pandas <br>
 - Data Visualization <br>
-- Data Preparation
+- Data Preparation <br>
+## 🎯 Expert Advisor (EA)
+
