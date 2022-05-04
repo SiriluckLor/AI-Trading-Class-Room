@@ -5,5 +5,6 @@
 - Pandas <br>
 - Data Visualization <br>
 - Data Preparation <br>
-## 🎯 Expert Advisor (EA)
+## 🎯 ![image](https://user-images.githubusercontent.com/25384204/166638026-ed32a824-7410-4c9c-9f43-7d8240c29289.png)
+Expert Advisor (EA)
 
